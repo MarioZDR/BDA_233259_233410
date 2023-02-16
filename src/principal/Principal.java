@@ -15,7 +15,7 @@ import interfaces.IDireccionesDAO;
 
 /**
  *
- * @author Gabriel Mancinas
+ * @author 00000233259_00000233410
  */
 public class Principal {
 
